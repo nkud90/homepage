@@ -1,3 +1,4 @@
+<?php $currentPage = __FILE__; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -1,11 +1,15 @@
 <footer>
     <hr>
     <div>
-        <p>This page was last modified on <span id="modified"></span></p>
-        <script>
-            let text = document.lastModified;
-            document.getElementById("modified").innerHTML = text;
-        </script>
+        <p>This page was last modified on 
+            <span id="modified">
+                <?php
+                // Use $currentPage if it's set, otherwise fall back to __FILE__
+                $fileToCheck = isset($currentPage) ? $currentPage : __FILE__;
+                echo date("F d Y H:i:s.", filemtime($fileToCheck));
+                ?>
+            </span>
+        </p>
     </div>
     <hr>
     <p style="font-weight: 200; font-size: small">

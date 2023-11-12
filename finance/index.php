@@ -1,3 +1,4 @@
+<?php $currentPage = __FILE__; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,8 +10,8 @@
 </head>
 <body>
     <?php include '../header.php';?>
-    <p><a href="/index.php">Home</a> / Financial literacy</p>
-    <h2>Financial literacy</h2>    
+    <p><a href="/index.php">Home</a> / Financial Literacy</p>
+    <h2>Financial Literacy</h2>    
     <p>    
         Basic information and tools for building wealth and managing assets.
     </p>
