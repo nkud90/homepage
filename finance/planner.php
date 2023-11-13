@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Retirement Planner - Nik's Homepage</title>
     <link rel="stylesheet" href="../style.css">
-    <script defer data-domain="nkud.ru" src="https://plausible.io/js/script.js"></script>
+    <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
     <script src="../assets/scripts/plan.js"></script>
 </head>
 <body>
