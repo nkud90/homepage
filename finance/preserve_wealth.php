@@ -16,6 +16,7 @@
     <p>
         Since it seems impossible to achieve absolute security, one's assets should be divided into several parts,
         making a loss of one of them not critical.
+        The key idea behind this is to have some capital for a fresh start in case of an emergency.
     </p>
     <p>
         There are several tips regarding this:
@@ -28,19 +29,16 @@
         <h3>💡 Example</h3>
         <p>
             <b>Poor</b>: three equity ETFs of the same country from one ETF provider on one brokerage account. <br>
-            A single event - broker's or ETF provider's insolvancy, country-specific event - can lead to a loss of all the whole capital.
+            A single event - broker's or ETF provider's insolvency, country-specific event - could result in the loss of all capital.
         </p>
         <p>
-            <b>Good</b>: (1) ETF on a brokerage account, (2) real estate and (3) bitcoins on cold storage. <br>
-            Almost no single event can lead to a loss of all the capital.
+            <b>Good</b>: (1) ETF on a brokerage account, (2) real estate in direct ownership and (3) bitcoins on cold storage. <br>
+            Almost no single event can cause a loss of all capital.
         </p>
     </div>
-    <p>
-        The key idea behind this is to have some capital for a fresh start in the event of an emergency leading to the total loss of one of the parts: a fundamentally unavoidable risk.
-    </p>
     <h2>To invest in high-quality assets</h2>
     <p>
-        The quality of an asset is determined by it's history (the test of time), scale of adoption, accountability, transparency, liquidity, transferrability.
+        The quality of an asset is determined by it's history (the test of time), scale of adoption, accountability, transparency, liquidity, transferability.
     </p>
     <div class="example">
         <h3>💡 Example</h3>

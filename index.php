@@ -10,10 +10,13 @@
 </head>
 <body>
     <?php include 'header.php';?>
-    <h1>Nik's personal homepage 🙋</h1>
+    <h1>Nik's personal homepage</h1>
     <div>
         <p>
             I use this web page for structuring my experience and other practical information. 
+        </p>
+        <p>
+            ⚠️<b>Warning:</b> the project is in the early stage of development, and most of the links are not working yet. I apologize for the inconvenience. 
         </p>
     </div>
     <div class="flex-container">
@@ -24,7 +27,7 @@
             </p>
         </a>
         <a href="#" class="box">
-            <h3>😌 Happiness Technologies</h3>
+            <h3>😌 Mental well-being</h3>
             <!-- <p>
                 The essence of time tested techniques for achieving mental well-being.
             </p> -->

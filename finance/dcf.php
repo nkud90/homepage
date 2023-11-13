@@ -63,7 +63,7 @@
         
     </form>   
     <br>
-    <div class="results" style="font-size: 1.5em">
+    <div class="results" style="font-size: 1.25em">
         <div class="result-label">Intrinsic value: <span class="result" id="result-intrinsic-value">0</span></div>
     </div>
 

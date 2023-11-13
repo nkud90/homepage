@@ -84,7 +84,7 @@
         </div>
     </form>    
     <br>
-    <div class="results" style="font-size: 1.2em">
+    <div class="results" style="font-size: 1.25em">
         <p class="result-label">Resulting capital: <span class="result" id="result-capital">0</span></p>
         <p class="result-label">Resulting monthly passive income: <span class="result" id="result-income">0</span></p>
     </div>
