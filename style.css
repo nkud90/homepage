@@ -1,9 +1,21 @@
+/* General CSS */
 :root {
     --color-bg: #ffffff;
     --color-mid: #898989;
     --color-fg: #000000;
     --color-a-link: DodgerBlue;
   }
+
+body {  
+    font-weight: 300;
+    background-color: var(--color-bg);
+    color: var(--color-fg);
+    max-width: 1024px;
+    margin: auto;
+    margin-top: 1.5%;
+    font-family: -apple-system, system-ui, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", sans-serif; 
+}
+/* End of general CSS section */
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
@@ -18,42 +30,13 @@
   }
 
 /* Different screen sizes parameters */
-@media screen and (max-width: 1200px) {
+/* Properties for screen width less than 1024px */
+@media screen and (max-width: 1024px) { 
     body {
-        margin: 6%;
-        margin-top: 1.5%;
+        margin: 3%;
         }
 }
-@media screen and (max-width: 800px) {
-    .calc {
-        flex: 1;
-        min-width: 150px;
-    }
-    /* .form {
-        max-width: 100%;   
-    } */
-}
 /* End of different screen sizes parameters section */
-
-/* General CSS */
-body {  
-    font-weight: 300;
-    background-color: var(--color-bg);
-    color: var(--color-fg);
-    max-width: 1024px;
-    margin: auto;
-    margin-top: 1.5%;
-    font-family: -apple-system, system-ui, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", sans-serif; 
-}
-a {
-    color: var(--color-a-link);
-    text-decoration: none;
-}
-a:hover {
-    color: var(--color-a-link);
-    text-decoration: underline;
-}
-/* End of general CSS section */
 
 /* Specific CSS */
 /* Header */
@@ -75,6 +58,17 @@ a.menu {
     padding-left: 3%;
 }
 /* End of header section */
+
+/* Links */
+a {
+    color: var(--color-a-link);
+    text-decoration: none;
+}
+a:hover {
+    color: var(--color-a-link);
+    text-decoration: underline;
+}
+/* End of links section */
 
 /* Flex boxes section */
 .flex-container {
