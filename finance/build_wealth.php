@@ -15,13 +15,19 @@
     <script src="darkmode.js"></script> -->
     <?php include '../header.php';?>
     <p><a href="../index.php">Home</a> / <a href="index.php">Financial literacy</a> / <a href="principles.php">Key prosperity principles</a> / How to build wealth</p>
-    <h2>How to build wealth</h2>    
+    <h1>How to build wealth</h1>    
     <p>To achieve wealth (passive income exceeds expenses), three principles should be followed:</p>
     <ol>
-        <li>Save from 10% of current income;</li>
-        <li>Invest the saved funds in a <a href="assets.html">well established high quality assets</a> for a <a href="dcf.php">reasonable price</a>;</li>
-        <li>Regularly reinvest the profits generated from the assets until the <a href="enough.html">sufficient level of wealth</a> is achieved.</li>
+        <li><b>Save</b> from 10% of current income;</li>
+        <li><b>Invest</b> the saved funds in a <a href="assets.html">well established high quality assets</a> for a <a href="dcf.php">reasonable price</a>;</li>
+        <li>Regularly <b>reinvest</b> the profits generated from the assets until the <a href="enough.html">sufficient level of wealth</a> is achieved.</li>
     </ol>
+    <h2>Further reading</h2>
+    <p>One can improve understanding of the principles by reading the following books:</p>
+    <ul>
+        <li>The Richest Man in Babylon (by George Samuel Clason).</li>
+        <li>Rich Dad Poor Dad (by Robert Kiyosaki).</li>
+    </ul>
     <?php include '../footer.php';?>
 </body>
 </html>

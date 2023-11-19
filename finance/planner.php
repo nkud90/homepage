@@ -11,8 +11,8 @@
 </head>
 <body>
     <?php include '../header.php';?>
-    <p><a href="../index.php">Home</a> / <a href="index.php">Financial Literacy</a> / Retirement Planner</p>
-    <h1>Retirement Planning Tool</h1>
+    <p><a href="../index.php">Home</a> / <a href="index.php">Financial literacy</a> / Retirement Planner</p>
+    <h1>Retirement planning tool</h1>
     <p>The tool estimates future passive income with given personal inputs.</p>
     <p class="callout">
         ✅ Data is not collected. The script runs on your local machine so you can download the page to run it locally.

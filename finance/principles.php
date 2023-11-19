@@ -15,7 +15,7 @@
     <script src="darkmode.js"></script> -->
     <?php include '../header.php';?>
     <p><a href="../index.php">Home</a> / <a href="index.php">Financial literacy</a> / Key prosperity principles</p>
-    <h2>Key prosperity principles</h2>    
+    <h1>Key prosperity principles</h1>    
     <p>    
         Basic information on how to build and preserve wealth
     </p>

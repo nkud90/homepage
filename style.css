@@ -108,12 +108,10 @@ input {
     border-radius: 5px;
     padding: 7px;
     margin: 0.5%;
-    /* width: 120px; */
+    width: 180px;
     background-color: var(--color-bg);
     font-size: 1em;
 }
-
-
 
 hr {
     margin-top: 3%;
@@ -126,7 +124,6 @@ hr {
 footer {
     text-align: center;
 }
-
 
 button {
     max-width: 200px;

@@ -11,7 +11,7 @@
 <body>
     <?php include '../header.php';?>
     <p><a href="/index.php">Home</a> / Financial literacy</p>
-    <h2>Financial literacy</h2>    
+    <h1>Financial literacy</h1>    
     <p>    
         Basic information and tools for building wealth and managing assets.
     </p>
@@ -34,16 +34,16 @@
                 A calculation tool to estimate resources needed to achieve financial independence. 
             </p>
         </a>
-        <a href="#" class="box">
+        <a href="books.php" class="box">
             <h3>📚 Books</h3>
             <p>
-                🚧 Under construction
+                Books and materials on building and preserving wealth, managing financial assets and understanding economics.
             </p>
         </a>
-        <a href="#" class="box">
-            <h3>🔗 Links</h3>
+        <a href="links.php" class="box">
+            <h3>🔗 Financial services</h3>
             <p>
-                🚧 Under construction
+                Links to third-party services for financial management.
             </p>
         </a>
     </div>
