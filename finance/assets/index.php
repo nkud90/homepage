@@ -4,15 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="bitcoin, cryptocurrency, finance, investing">
-    <meta name="description" content="Basic information on Bitcoin as a modern store of value and digital money.">
-    <title>Investment Assets - Nik's Homepage</title>
+    <title>Choosing Assets - Nik's Homepage</title>
     <link rel="stylesheet" href="../../style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
     <?php include '../../header.php';?>
-    <p><a href="/index.php">Home</a> / <a href="../index.php">Financial topics</a> / Investment assets</p>
+    <p><a href="/index.php">Home</a> / <a href="../index.php">Financial topics</a> / Choosing assets</p>
     <h1>Choosing assets</h1>    
     <p>    
         The list of high quality assets and quality parameters.
