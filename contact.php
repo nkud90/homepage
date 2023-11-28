@@ -13,10 +13,11 @@
     <p><a href="/index.php">Home</a> / Contact</p>
     <h1>Contact information</h1>    
     <p>    
-        In case you want to contact me, you can do so by sending an email to <a href="mailto:sixteen_server_0t@icloud.com">sixteen_server_0t@icloud.com</a>. 
+        You can contact me by e-mail using this temporary address: <a href="mailto:sixteen_server_0t@icloud.com">sixteen_server_0t@icloud.com</a>. 
     </p>
     <p>
-        Please note that the e-mail is subject to a regular change in case of increased spam on the address, so if you want to contact me, please check this page for the latest e-mail address.
+        Please note that the email address may change regularly if the amount of spam sent to it increases, 
+        so if you would like to contact me, please check the address to make sure it is up to date.
     </p>
     </div>
     <?php include 'footer.php';?>
