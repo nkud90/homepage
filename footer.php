@@ -1,4 +1,5 @@
 <footer>
+<button onclick="history.back()" style="margin-top: 10px;">◀️ Go back</button>
     <hr>
     <div>
         <p style="font-weight: 200; font-size: 0.85em">This page was last modified on 

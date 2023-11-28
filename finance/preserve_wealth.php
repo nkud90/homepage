@@ -4,17 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wealth preservation - Nik's Homepage</title>
+    <title>Wealth Preservation - Nik's Homepage</title>
     <link rel="stylesheet" href="../style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
     <?php include '../header.php';?>
-    <p><a href="../index.php">Home</a> / <a href="index.php">Financial literacy</a> / <a href="principles.php">Key prosperity principles</a> / How to preserve wealth</p>
+    <p><a href="../index.php">Home</a> / <a href="index.php">Financial topics</a> / <a href="principles.php">Key prosperity principles</a> / How to preserve wealth</p>
     <h1>How to preserve wealth</h1>
     <h2>To divide capital</h2>
     <p>
-        Since it seems impossible to achieve absolute security, one's assets should be divided into several parts,
+        Since it seems impossible to achieve absolute security, assets should be divided into several parts,
         making a loss of one of them not critical.
         The key idea behind this is to have some capital for a fresh start in case of an emergency.
     </p>
@@ -23,7 +23,7 @@
     </p>
     <ol>
         <li>It is practical to have from 2 to 6 parts, as more can potentially be hard to manage;</li>
-        <li>The parts should be principally independent parts or places or assets.</li>
+        <li>The parts should be principally independent in terms of assets, jurisdictions or geographical locations.</li>
     </ol>
     <div class="example">
         <h3>💡 Example</h3>
@@ -45,7 +45,7 @@
         <ul>
             <li>Vanilla market cap weighted index ETFs;</li>
             <li>Real estate in investor's direct ownership and control;</li>
-            <li>Bitcoin <a href="#">stored securely</a>.</li>
+            <li>Bitcoin <a href="bitcoin/store.php">stored securely</a>.</li>
         </ul>
     </div>
     <?php include '../footer.php';?>

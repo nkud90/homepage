@@ -16,12 +16,12 @@
             I use this web page for structuring my experience and other practical information. 
         </p>
         <p>
-            ⚠️<b>Warning:</b> the project is in the early stage of development, and most of the links are not working yet. I apologize for the inconvenience. 
+            ⚠️<b>Warning:</b> the project is in the early stage of development, and many links are not working yet. I apologize for the inconvenience. 
         </p>
     </div>
     <div class="flex-container">
         <a href="finance/index.php" class="box">
-            <h3>💸 Financial literacy</h3>
+            <h3>💸 Financial topics</h3>
             <p>
                 Basic information and tools for building and preserving wealth and asset management. 
             </p>

@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Financial Literacy - Nik's Homepage</title>
+    <title>DCF Calculator - Nik's Homepage</title>
     <link rel="stylesheet" href="../style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
     <script src="../assets/scripts/dcf.js"></script>
 </head>
 <body>
     <?php include '../header.php';?>
-    <p><a href="../index.php">Home</a> / <a href="index.php">Financial literacy</a> / DCF Calculator</p>
+    <p><a href="../index.php">Home</a> / <a href="index.php">Financial topics</a> / DCF Calculator</p>
     <h1>DCF Calculator</h1>
     <p>
         The tool calculates the intrinsic (fair) value of a cash flow generating investment object using the discounted cash flow (DCF) method.
@@ -35,7 +35,9 @@
                 </label><br>
                 <input type="text" name="growthDuration" value="3" class="input" required="true" id="growthDuration">
             </div>
-        
+            
+            <span style="display: inline-block; width: 10px;"></span> <!-- Spacer -->
+
             <div>
                 <label for="discountRate">
                     Discount rate, %
@@ -56,6 +58,7 @@
             <button type="button" tabindex="1" onclick="calculate(); return false;">
                 Calculate
             </button>
+            <span style="display: inline-block; width: 10px;"></span> <!-- Spacer -->
             <button type="reset" tabindex="2" onclick="resetView(); return false;">
                 Reset
             </button>

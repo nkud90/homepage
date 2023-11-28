@@ -12,34 +12,34 @@
 </head>
 <body>
     <?php include '../header.php';?>
-    <p><a href="../index.php">Home</a> / <a href="index.php">Financial literacy</a> / Books</p>
+    <p><a href="../index.php">Home</a> / <a href="index.php">Financial topics</a> / Books</p>
     
     <h1>Books for financial well-being</h1>
     <p>Books and materials on building and preserving wealth, managing financial assets and understanding economics:</p>
     
-    <h2>Basic principles</h2>
+    <h2>📜 Basic principles</h2>
     <ul>
         <li>The Richest Man in Babylon (by George Samuel Clason).</li>
         <li>Rich Dad Poor Dad (by Robert Kiyosaki).</li>
     </ul>
     
-    <h2>General investing</h2>
+    <h2>📈 General investing</h2>
     <p>CFA Institute - Investment Foundations (a short course from the CFA Institute, available as a .pdf textbook).</p>
 
-    <h2>Equity investing</h2>
+    <h2>🏢 Equity investing</h2>
     <ul>
         <li>The Intelligent Investor - The Complete Guide to Value Investing (by Benjamin Graham).</li>
         <li>Common Stocks and Uncommon Profits (by Philip Fisher).</li>
         <li>Beating the Street (by Peter Lynch).</li>
     </ul>
 
-    <h2>Money, gold and bitcoin-related</h2>
+    <h2>💰 Money, gold and bitcoin-related</h2>
     <ul>
         <li>The Bitcoin Standard: The Decentralized Alternative to Central Banking (by Saifedean Ammous).</li>
         <li>The Price of Tomorrow (by Jeff Booth).</li>
     </ul>
 
-    <h2>General economy-related</h2> 
+    <h2>🌐 General economy-related</h2> 
     <p>Trilogy by Yuval Noah Harari:</p>
         <ol>
             <li>Sapiens: A Brief History of Humankind.</li>

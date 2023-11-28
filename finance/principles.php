@@ -4,17 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Financial literacy - Nik's Homepage</title>
+    <title>Prosperity Principles - Nik's Homepage</title>
     <link rel="stylesheet" href="../style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
-    <!-- <button onclick="darkMode()" style="float: right; background-color: transparent; border: none;">
-        <img id="dark_mode_button" class="regular-mode-icon" src="assets/icons/darkmode.svg" alt="Dark mode icon" width="24" height="24">
-    </button>
-    <script src="darkmode.js"></script> -->
     <?php include '../header.php';?>
-    <p><a href="../index.php">Home</a> / <a href="index.php">Financial literacy</a> / Key prosperity principles</p>
+    <p><a href="../index.php">Home</a> / <a href="index.php">Financial topics</a> / Key prosperity principles</p>
     <h1>Key prosperity principles</h1>    
     <p>    
         Basic information on how to build and preserve wealth

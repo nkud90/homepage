@@ -11,7 +11,7 @@
 </head>
 <body>
     <?php include '../header.php';?>
-    <p><a href="../index.php">Home</a> / <a href="index.php">Financial literacy</a> / Retirement Planner</p>
+    <p><a href="../index.php">Home</a> / <a href="index.php">Financial topics</a> / Retirement planner</p>
     <h1>Retirement planning tool</h1>
     <p>The tool estimates future passive income with given personal inputs.</p>
     <p class="callout">
@@ -35,6 +35,9 @@
                     <input type="text" name="contributionAmount" value="300" class="input" required="true" id="contributionAmount">
                 </div>
             </div>
+
+            <span style="display: inline-block; width: 20px;"></span> <!-- Spacer -->
+            
             <div>
                 <p style="font-size:large">Income growth:</p>
                 <div>
@@ -50,6 +53,9 @@
                     <input type="text" name="incomeGrowthDuration" value="0" class="input" required="true" id="incomeGrowthDuration">
                 </div>
             </div>
+
+            <span style="display: inline-block; width: 20px;"></span> <!-- Spacer -->
+            
             <div>
                 <p style="font-size:large">Investments return:</p>
                 <div>
@@ -65,6 +71,9 @@
                     <input type="text" name="passiveIncomeRate" value="4" class="input" required="true" id="passiveIncomeRate">
                 </div>
             </div>
+
+            <span style="display: inline-block; width: 20px;"></span> <!-- Spacer -->
+            
             <div>
                 <p style="font-size:large">Calculation parameters:</p>
                     <label for="period">
@@ -74,14 +83,17 @@
                 </div>
         </div>
         <br>
+
         <div>
             <button type="button" tabindex="1" onclick="calculate(); return false;">
                 Calculate
             </button>
+            <span style="display: inline-block; width: 10px;"></span> <!-- Spacer -->
             <button type="reset" tabindex="2" onclick="resetView(); return false;">
                 Reset
             </button>
         </div>
+
     </form>    
     <br>
     <div class="results" style="font-size: 1.25em">
