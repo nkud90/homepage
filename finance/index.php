@@ -34,7 +34,7 @@
                 A calculation tool to estimate resources needed to achieve financial independence. 
             </p>
         </a>
-        <a href="assets.php" class="box">
+        <a href="assets/index.php" class="box">
             <h3>🏦 Choosing assets</h3>
             <p>
                 The list of high quality assets and quality parameters.

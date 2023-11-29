@@ -15,7 +15,7 @@
     <p>To achieve wealth (passive income exceeds expenses), three principles should be <b>consistently</b> followed:</p>
     <ol>
         <li>To <b>save</b> from 10% of current income;</li>
-        <li>To <b>invest</b> the saved funds in a <a href="assets.php">well established high quality assets</a> for a <a href="dcf.php">reasonable price</a>;</li>
+        <li>To <b>invest</b> the saved funds in a <a href="assets/index.php">well established high quality assets</a> for a <a href="dcf.php">reasonable price</a>;</li>
         <li>To regularly <b>reinvest</b> the profits generated from the assets until the <a href="planner.php">sufficient level of wealth</a> is achieved.</li>
     </ol>
     <p>A deeper understanding of these principles can be gained by experimenting with the <a href="planner.php">retirement planning tool</a>.</p>
