@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="assets, finance, investing">
-    <meta name="description" content="List of assets considered reliable by the author">
-    <title>Asset Quality Parameters - Nik's Homepage</title>
-    <link rel="stylesheet" href="/style.css">
+    <meta name="keywords" content="assets, quality, factors, finance, investing">
+    <meta name="description" content="Main determinants of asset quality">
+    <title>Asset Quality - Nik's Homepage</title>
+    <link rel="stylesheet" href="/css/style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
@@ -16,9 +16,10 @@
     
     <h1>Investment asset quality parameters</h1>
 
-    <p>These parameters, in my opinion, are the main determinants of asset quality</p>
+    <p>These parameters, in my opinion, are the main determinants of asset quality:</p>
     <ul style = "line-height: 1.5em;">
         <li>📈 Expected return</li>
+        <li>🚨 Probability of default</li>
         <li>⏳ History length (the test of time)</li>
         <li>🌏 Scale of adoption</li>
         <li>🧾 Accountability</li>
@@ -28,7 +29,7 @@
         <li>💎 Scarcity</li>
         <li>🚫 Ability to resist censorship</li>
         <li>📉 Volatility</li>
-        <li>🚨 Probability of default</li>
+        <li>📊 Correlation with other assets</li>
     </ul>
 
     <p>

@@ -7,7 +7,7 @@
     <meta name="keywords" content="bitcoin, cryptocurrency, finance, investing">
     <meta name="description" content="Practical methods to buy bitcoins">
     <title>Buying bitcoins - Nik's Homepage</title>
-    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>

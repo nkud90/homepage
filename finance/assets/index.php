@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Choosing Assets - Nik's Homepage</title>
-    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
@@ -17,7 +17,7 @@
     </p>
     <div class="flex-container">
         <a href="factors.php" class="box">
-            <h3>⚙️ Quality parameters</h3>
+            <h3>⚙️ Assets quality parameters</h3>
             <p>
                 What factors to consider when choosing an asset.
             </p>
@@ -28,15 +28,12 @@
                 Investment vehicles of personal choice.
             </p>
         </a>
-
-        <!-- Hidden placeholders  -->
-        <!-- <a href="#" class="box" style="visibility: hidden">
-            <h3>A hidden placeholder</h3>
+        <a href="stocks.php" class="box">
+            <h3>⚖️ How to choose stocks</h3>
             <p>
-                A hidden placeholder.
+                A list of factors to consider when picking stocks.
             </p>
-        </a> -->
-        <!-- End of hidden placeholders -->
+        </a>
 
     </div>
     <?php include '../../footer.php';?>

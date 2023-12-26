@@ -7,7 +7,7 @@
     <meta name="keywords" content="services, links, finance, investing">
     <meta name="description" content="Links to the key web services for managing financial assets.">
     <title>Financial Services - Nik's Homepage</title>
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>

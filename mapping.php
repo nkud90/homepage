@@ -5,6 +5,7 @@ return [
     'assets' => 'Choosing assets',
     'factors.php' => 'Quality parameters',
     'list.php' => 'Quality assets list',
+    'stocks.php' => 'Choosing stocks',
     // Add more mappings as needed
 ];
 ?>

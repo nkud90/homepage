@@ -7,7 +7,7 @@
     <meta name="keywords" content="books, finance, investing, wealth, prosperity, financial literacy">
     <meta name="description" content="Books and materials on building and preserving wealth, managing financial assets and understanding economics.">
     <title>Books for financial well-being - Nik's Homepage</title>
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>

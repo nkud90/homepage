@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nik's Personal Homepage</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
@@ -13,7 +13,7 @@
     <h1>Nik's personal homepage</h1>
     <div>
         <p>
-            I use this web page for structuring my experience and other practical information. 
+            I use this web page for structuring my experience and practical information. 
         </p>
         <p>
             ⚠️<b>Warning:</b> the project is in the early stage of development, and many links are not working yet. I apologize for the inconvenience. 
@@ -63,6 +63,6 @@
             </p>
         </a>
     </div>
-    <?php include 'footer.php';?>
+    <?php include 'footer_home.php';?>
 </body>
 </html>

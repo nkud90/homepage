@@ -2,7 +2,7 @@
 <button onclick="history.back()" style="margin-top: 10px;">◀️ Go back</button>
     <hr>
     <div>
-        <p style="font-weight: 200; font-size: 0.85em">This page was last modified on 
+        <p style=" font-size: small">This page was last modified on 
             <span id="modified">
                 <?php
                 // Use $currentPage if it's set, otherwise fall back to __FILE__
@@ -13,7 +13,7 @@
         </p>
     </div>
     <hr>
-    <p style="font-weight: 200; font-size: small">
+    <p style=" font-size: small">
         The contents of the web page and it's source code is licensed under <a href="https://opensource.org/license/unlicense/">The Unlicense</a>.<br>
         You can copy, modify, distribute, use for commercial purposes any material <br>without asking permission.
     </p>

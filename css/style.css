@@ -134,7 +134,6 @@ footer {
 }
 
 button {
-    max-width: 200px;
     color: var(--color-fg);
     background-color: rgb(128, 128, 128, 0.2);
     border: solid 1px #b7b7b7;
