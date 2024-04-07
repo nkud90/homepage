@@ -18,7 +18,7 @@
     <h2>💻 Wallet software</h2>
     <p>Bitcoins should be stored by means of a software wallet which allows to store private keys locally. Such wallets are commonly referred to as cold wallets.</p>
     <p>
-        My personal wallet of choice is <a href="https://electrum.org" class="external" target="_blank">Electrum</a> on Mac OS / Windows / Android and 
+        My personal wallets of choice are <a href="https://electrum.org" class="external" target="_blank">Electrum</a> on Mac OS / Windows / Android, Sparrow Wallet on Mac OS / Windows and 
         <a href="https://bluewallet.io" class="external" target="_blank">BlueWallet</a> on iOS.<br>
         <b>Electrum</b> is an open-source wallet with a well-established history, being one of the first wallets.<br>
         <b>BlueWallet</b> is an open-source community built iOS alternative for Electrum, 
