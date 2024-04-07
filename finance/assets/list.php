@@ -9,14 +9,7 @@
     <title>Reliable Assets - Nik's Homepage</title>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/tooltip.css">
-    <style>
-        sup a {
-            font-size: smaller;
-        }
-        .footnotes {
-            font-size: smaller;
-        }
-    </style>
+    <link rel="stylesheet" href="/css/footnote.css">
     <script defer data-domain="nkud.me" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
